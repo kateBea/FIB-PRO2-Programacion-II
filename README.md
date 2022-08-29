@@ -7,7 +7,7 @@ Repositorio del curso de Programación II en el grado de Ingeniería Informátic
     Simplemente deberemos definir el alias p2++ como se indica en la documentación de 
     laboratorio de PRO II.
 
-    >alias p2++="g++ -D_GLIBCXX_DEBUG -O2 -Wall -Wextra -Werror -Wno-sign-compare -std=c++11"
+    >``alias p2++ = "g++ -D_GLIBCXX_DEBUG -O2 -Wall -Wextra -Werror -Wno-sign-compare -std=c++11"``
 
 Para más detalles sobre los comandos que se están pasando al invocar g++:
 
