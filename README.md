@@ -11,7 +11,7 @@ Repositorio del curso de Programación II en el grado de Ingeniería Informátic
 
 Para más detalles sobre los comandos que se están pasando al invocar g++:
 
-    > g++               -> Compilador C/C++ GNU
+    > g++               -> Compilador C/C++ GNU (el binario ejecutable)
     > -D_GLIBCXX_DEBUG  -> Usar libreria libstdc++ en modo de Debug
     > -O2               -> Habilitar niveles de optimización
     > -Wall             -> Habilita todos los warnings
