@@ -31,13 +31,16 @@ void inter(list<int>& uno, const list<int>& dos)
             ++index2;
         }
 
-        // if it they are equal we keep the element inside "uno" list
+        // if they are equal we keep the element inside "uno" list
     }
-
+    
+    // clear rest of elements that should not be in the intersection
     while (index1 != uno.end())
         index1 = uno.erase(index1);
 }
 
+// #if true to run the code below, exercise does not ask for it
+// simply done for testing purposes
 #if false
 template <typename T>
 std::ostream& operator<<(std::ostream& out, const std::list<T>& list_)
