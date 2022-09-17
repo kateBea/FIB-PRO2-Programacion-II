@@ -39,7 +39,7 @@ void inter(list<int>& uno, const list<int>& dos)
         index1 = uno.erase(index1);
 }
 
-// #if true to run the code below, exercise does not ask for it
+// #if true to run the code below, exercise does not ask for 'main'
 // simply done for testing purposes
 #if false
 template <typename T>
