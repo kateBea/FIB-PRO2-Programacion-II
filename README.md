@@ -1,4 +1,4 @@
-# FIB-PRO1 [Programación II]
+# FIB-PRO2 [Programación II]
 Repositorio del curso de Programación II en el grado de Ingeniería Informática en la FIB UPC
 
 - Setup de p2++ en casa:
